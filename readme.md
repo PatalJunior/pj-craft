@@ -2,7 +2,7 @@
 
 Beautiful Crafting System for ESX and QBcore
 
-Originaly based on [CodemCraft](https://github.com/LucidB1/codem-craft)
+Originaly based on [Codem_Craft](https://github.com/LucidB1/codem-craft)
 
 [Preview](https://streamable.com/ii9wao)
  
